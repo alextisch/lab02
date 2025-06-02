@@ -5,5 +5,5 @@ int main() {
     std::cout << "Enter your name: ";
     std::cin >> name;
     std::cout << "Hello, world from " << name << "!";
-    return 0;
+    return 0; //ы
 }
