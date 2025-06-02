@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 int
 main()
 {
@@ -8,4 +9,5 @@ main()
   std::cin >> name;
   std::cout << "Hello, world from " << name << "!";
   return 0;
+
 }
